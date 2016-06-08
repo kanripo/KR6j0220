@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:13.000321
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:36
 #+TITLE: 佛說造塔延命功德經
 #+PROPERTY: CBETA_ID T19n1026
 #+PROPERTY: ID KR6j0220
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 1026
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0220_T_000-0726a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0220_T_001-0726a> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1026¶
-
- 佛說造塔延命功德經¶
+No. 1026¶
+佛說造塔延命功德經¶
 ¶
 罽賓國三藏沙門般若奉　詔譯¶
 
@@ -207,8 +206,7 @@ No.1026¶
 王難賊難。刀兵等難無能傷害。若於曠野若¶
 空閑處。若於聚落及大會中。能以此經宣¶
 告大眾。即為救護眾生身命。所獲福德量與¶
-空等。若於後世書寫流通。塔雖未造造塔功¶
-德等無有異。我為大王及未來世一切眾生。¶
+空等。若於後世書寫流通。塔雖未造造塔功德等無有異。我為大王及未來世一切眾生。¶
 廣開造塔延命功德。王當憶持。¶
 
 爾時波斯匿王及諸大眾。聞佛所說皆大歡¶
@@ -222,5 +220,4 @@ No.1026¶
 
 　　章教寺大德沙門鑑虛　　　潤文¶
 
-靈雲校本云　貞享四丁卯稔中春二十三¶
-日一校了　　　　　　淨嚴(四十九載)
+靈雲校本云　貞享四丁卯稔中春二十三日一校了　　　　　　淨嚴四十九載(四十九載)
