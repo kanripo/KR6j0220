@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:13.000321
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:36
 #+TITLE: 佛說造塔延命功德經
 #+PROPERTY: CBETA_ID T19n1026
 #+PROPERTY: ID KR6j0220
